@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://jhu-cte.github.io
+title: CTE
+tagline: Center for Technology in Education
+description: My awesome new site
+paginate: 5
