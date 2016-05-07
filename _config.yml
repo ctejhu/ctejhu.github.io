@@ -4,5 +4,5 @@ markdown: kramdown
 url: http://jhu-cte.github.io
 title: CTE
 tagline: Center for Technology in Education
-description: My awesome new site
+description: Center for Technology in Education
 paginate: 5
